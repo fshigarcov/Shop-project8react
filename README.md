@@ -1,2 +1,2 @@
-# Shop-project8react
+# react-project3
 Created with CodeSandbox
